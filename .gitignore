@@ -1,6 +1,7 @@
 ﻿# Maven输出目录
 /target/
 /**/target/
+
 xlin-basic/target
 xlin-lib/target
 xlin-query/target
