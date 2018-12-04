@@ -1,5 +1,6 @@
-# Maven输出目录
+﻿# Maven输出目录
 /target/
+/**/target/
 xlin-basic/target
 xlin-lib/target
 xlin-query/target
@@ -11,7 +12,7 @@ pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.next
 release.properties
-# Eclipse项目文件
+# Eclipse项目文件 
 .classpath
 .project
 .settings/
